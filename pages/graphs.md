@@ -250,3 +250,19 @@ journey
       Go downstairs: 5: Me
       Sit down: 3: Me
 ```
+
+## Creating git graphs
+
+```mermaid
+gitGraph
+    commit
+    commit
+    branch develop
+    checkout develop
+    commit
+    commit
+    checkout main
+    merge develop
+    commit
+    commit
+```
