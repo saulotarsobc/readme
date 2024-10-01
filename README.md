@@ -3,3 +3,4 @@
 ---
 
 - [Graphs](pages/graphs.md)
+- [Tables](pages/tables.md)
