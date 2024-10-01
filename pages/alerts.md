@@ -4,6 +4,8 @@
 
 ---
 
+## Alerts
+
 ```md
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
@@ -20,6 +22,10 @@
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 ```
+
+## See a list of alerts
+
+> Is really beautiful ✅
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
