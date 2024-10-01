@@ -4,6 +4,10 @@
 
 ---
 
+[!NOTE]
+
+> See [mermaid.live](https://mermaid.live/) for a live demo
+
 ## Creating Mermaid diagrams
 
 ```mermaid
