@@ -214,7 +214,7 @@ graph TD;
 ## Creating class diagrams
 
 ```mermaid
-classDiagram;
+classDiagram
     Animal <|-- Duck
     Animal <|-- Fish
     Animal <|-- Zebra
