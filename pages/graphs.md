@@ -200,6 +200,8 @@ solid cube_corner
 endsolid
 ```
 
+## Creating flowcharts
+
 ```mermaid
 graph TD;
     A[Friend's Birthday] -->|Get money| B(Go shopping);
@@ -208,6 +210,8 @@ graph TD;
     C -->|Two| E[iPhone];
     C -->|Three| F[fa:fa-car Car];
 ```
+
+## Creating class diagrams
 
 ```mermaid
 classDiagram;
